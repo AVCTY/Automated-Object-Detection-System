@@ -1,0 +1,25 @@
+README File for connecting to AWS database using SQL workbench
+
+Video to refer: https://www.youtube.com/watch?v=-8laTtz0si0&ab_channel=AWSCloudians
+start from this time: 3:30
+
+Steps 
+
+1. Download SQL Workbench from https://www.sql-workbench.eu/downloads.html. Go to DOWNLOAD LINKS and click on the link that says
+"Generic package for all systems including all optional libraries (sha1)".
+
+2. After downloading, unzip the folder and watch the video to follow the configurations to set up the connection profile. Take note that you will need to login to the AWS database for the details of the database.
+
+Details of the database (if you have not logged in)
+
+Endpoint: amoidb.choc4s9fpy6h.us-west-2.rds.amazonaws.com
+Port: 1521
+Database Name: AMOIDB
+
+3. Continue watching the video to download the "sql workbench drivers" for Oracle and the version used will be (19c/ojdbc8.jar).
+The link to download is here: https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html
+
+4. Make sure that you have the java version 1.8 or above downloaded in your pc. However, java 8 is the same as 1.8. 
+The link to download is here: https://java.com/en/download/manual.jsp
+
+
