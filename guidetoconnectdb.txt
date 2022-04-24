@@ -16,6 +16,9 @@ Endpoint: amoidb.choc4s9fpy6h.us-west-2.rds.amazonaws.com
 Port: 1521
 Database Name: AMOIDB
 
+username: admin
+password: Cract123+
+
 3. Continue watching the video to download the "sql workbench drivers" for Oracle and the version used will be (19c/ojdbc8.jar).
 The link to download is here: https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html
 
