@@ -65,7 +65,6 @@ def main(vid_path):
     videoWriter.release()
     cv2.destroyAllWindows()
 
-    """
     try:
         connection = mysql.connector.connect(host='amoidb.c6zgrapmgchi.us-east-1.rds.amazonaws.com',
                                          database='sys',
@@ -119,9 +118,7 @@ def main(vid_path):
             print(count)
 
             initCursor.close()
-    """
-            #query = """UPDATE InventoryCount SET noOfBags = %s WHERE datetoday = %s AND productID = %s"""
-    """        
+            query = """UPDATE InventoryCount SET noOfBags = %s WHERE datetoday = %s AND productID = %s"""
             records_to_update = [
                 (count[0], mysqlCurTime, class_id["basedcoat"]),
                 (count[1], mysqlCurTime, class_id["skimcoat"]),
@@ -145,7 +142,7 @@ def main(vid_path):
             cursor2.close()
             connection.close()
             print("MySQL connection is closed")
-    """
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser("YOLOX-Tracker")
     parser.add_argument('--source', type=str, default='test_Trim.mp4', help='source')  # file/folder, 0 for webcam
