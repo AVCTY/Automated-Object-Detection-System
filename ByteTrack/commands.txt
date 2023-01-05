@@ -1,0 +1,20 @@
+#Convert to TRT
+cd <ByteTrack_HOME>
+python tools/trt.py -f exps/nano.py -c pretrained/yolox_nano_35eps_v5.tar
+
+
+# Run TensorRT demo (PC)
+cd <ByteTrack_HOME>
+python tools/demo_track.py video -f exps/nano.py --trt --save_result --path videos/test1.mp4
+
+# Run TensorRT demo (Jetson nano)
+cd <ByteTrack_HOME>
+python3 tools/demo_track.py video -f exps/nano.py --trt --save_result --path videos/test1.mp4
+
+
+# Run normal demo
+cd <ByteTrack_HOME>
+python tools/demo_track.py video -f exps/nano.py -c pretrained/yolox_nano_25eps_v8.tar --fp16 --fuse --save_result --path videos/test1.mp4
+
+# Jetson nano screen record
+gst-launch-1.0 ximagesrc use-damage=0 ! video/x-raw ! nvvidconv ! 'video/x-raw(memory:NVMM),format=NV12' ! nvv4l2h264enc ! h264parse ! matroskamux ! filesink location=test.mkv

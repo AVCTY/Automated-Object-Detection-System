@@ -1,0 +1,4 @@
+Test 1 - 11 Thin bed
+Test 2 - 14 Skim coat
+Test 3 - 6 Based coat
+Test 4 - 7 Tile adhesive
