@@ -56,7 +56,7 @@
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/5abf753e-c155-481c-976d-daaac28b3b3c"/>
+  <img src=""/>
 </p>
 
 # Disclaimer
