@@ -12,51 +12,51 @@
 
 # System Demo
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/98d3f3c7-512c-45f6-9a76-2acc72b9dadb"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/98d3f3c7-512c-45f6-9a76-2acc72b9dadb" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/25e50900-9466-4f49-9d40-edbbf5968de5"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/25e50900-9466-4f49-9d40-edbbf5968de5" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/e546e07d-4d44-46c1-a78c-62a46139a8e3"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/e546e07d-4d44-46c1-a78c-62a46139a8e3" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/9a062ba7-90ce-45a2-971c-0bb63c53550b"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/9a062ba7-90ce-45a2-971c-0bb63c53550b" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/f3a5147a-eee7-4db8-a953-cfbbfceff76f"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/f3a5147a-eee7-4db8-a953-cfbbfceff76f" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/f6a25c4e-80bc-46d6-ae74-ecf5fa07871c"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/f6a25c4e-80bc-46d6-ae74-ecf5fa07871c" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/a419e295-3769-47d5-9f5f-efd44e8aad32"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/a419e295-3769-47d5-9f5f-efd44e8aad32" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/f4faa710-fc99-4131-ae76-30ddb11c911c"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/f4faa710-fc99-4131-ae76-30ddb11c911c" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/9aa75fee-082c-49fe-bb4f-9b601d9a1ad9"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/9aa75fee-082c-49fe-bb4f-9b601d9a1ad9" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/826fa871-c84e-44fd-ac54-92b4838ecb2c"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/826fa871-c84e-44fd-ac54-92b4838ecb2c" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/ed6b3d9d-6a5b-42de-afbf-2e4af01b9294"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/ed6b3d9d-6a5b-42de-afbf-2e4af01b9294" width=600/>
 </p>
 
 <p align="justify">
-  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/61483608-392a-4574-babe-6859bd590cf8"/>
+  <img src="https://github.com/AVCTY/Automated-Object-Detection-System/assets/77198012/61483608-392a-4574-babe-6859bd590cf8" width=600/>
 </p>
 
 # Disclaimer
